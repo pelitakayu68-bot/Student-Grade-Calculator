@@ -1,0 +1,1 @@
+A simple web-based Grade and CGPA Calculator that allows users to input subject marks and credit hours, calculate GPA/CGPA, and demonstrate fundamental programming concepts such as input validation, selection, loops, and functions.
